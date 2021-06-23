@@ -1,7 +1,7 @@
 ### Hi there 👋 My Self Sreekanth .....
 
 
-**sreekanth31/sreekanth31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sreekanth31/sreekanth31** 
 
 Here are some ideas to get you started:
 
